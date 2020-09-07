@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>CHARUGALLA SAI KUMAR</h1>
+<p style="text-align:right">Email:charusivasaikumar@gmail.com</p>
+<p style="text-align:right"></p>Contact:+91-9840289541</p>
+
+<hr>
+
+<p><h2><br>Carrer Objective:</br></h2></p>
+<p>To be a part of dynamic organization where I can find expression for my technical,communication,interpersonal skills while learning and updating my skills and latest industry needs and solutions on a continous basis.</p>
+
+<p><h2><br>Education Details:</br></h2></p>
+
+<p>B.E.,(Computer Science and Engineering)<br>
+Sathyabama Institute Of Science And Technology<br>
+Sathyabama University<br>
+70.3% ,2019</p>
+
+<p> XII<br>
+Regency junior collage,Yanam<br>
+74.50% ,2015</p>
+
+<p> X<br>
+Regency Public School,Yanam<br>
+85% ,2013</p>
+
+<p><h2><br>Skills:</br></h2></p>
+<ul>
+    <li>C Programming</li>
+    <li>SQL(Basics)</li>
+    <li>C++</li>
+    <li>HTML,CSS</li>
+</ul>
+
+<p><h2><br>Academic Project:</br></h2></p>
+<p><h3><br>Project title:</h3><h4>School Academic Management</h4></p>
+<p><h3><br>Team Size:</h3><h4>4 members</h4></p>
+<p><h3>Project Description:</h3></p>
+<p><h4>The main aim of this project is to design and development a new website for promoting the school through that website.this website contains main description about the school following the summarized view about the school and an option for public to enquiry on academic seats availability of individual years from nursery to 10th class.contents of this website are Home page,About Us,Production,Carrers and Contact us.</h4></p>
+<p><h3><br>Technologies Used:</br></h3></p>
+<p><h4>html,css,php,bootstrap,mysql</h4></p>
+<p><h3><br>Roles and Responsibilities:</br></h3></p>
+<p><h4>Responsible for designing and development of UI part for the Website using html,css,bootstrap.</h4></p>
+<p><h3><br>Achievements and Awards:</br></h3></p>
+<ul>
+    <li>Playing Cricket</li>
+    <li>Writing Short Stories</li>
+    <li>Travelling</li>
+    <li>Swimming</li>
+</ul>
+
+<p><h3><br>Date:</br></h3></p>
+<p><h3><br>Place:</h3><span style="float:right">(Sai Kumar Charugalla)</span></br></p>
+
+</body>
+</html>
